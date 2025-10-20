@@ -1,0 +1,794 @@
+[
+    {
+        "image": "https://i.postimg.cc/fb09nKxH/images.png",
+        "title": "Facebook",
+        "companyName": "Meta Platforms, Inc.",
+        "id": 1,
+        "description": "Facebook, developed by Meta Platforms, Inc., is one of the most influential and widely used social networking platforms in the world. It serves as a digital hub where users can connect with friends, family, and communities across geographical boundaries. The platform allows users to share multimedia content such as photos, videos, and live streams, post status updates, and engage in conversations through comments, likes, and reactions. Facebook also hosts a vast ecosystem of interest-based groups, events, and pages that cater to hobbies, professions, and causes. Its News Feed algorithm curates personalized content, keeping users informed about trending topics, global news, and local happenings. Businesses leverage Facebook for marketing, customer engagement, and e-commerce through tools like Facebook Ads, Marketplace, and Shops. With features like Stories, Reels, and integrated messaging via Messenger, Facebook continues to evolve as a multifaceted platform for social interaction, entertainment, and commerce.",
+        "size": "85MB",
+        "reviews": "120M",
+        "ratingAvg": 4.2,
+        "downloads": "5000M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 8000000
+            },
+            {
+                "name": "2 star",
+                "count": 6000000
+            },
+            {
+                "name": "3 star",
+                "count": 10000000
+            },
+            {
+                "name": "4 star",
+                "count": 25000000
+            },
+            {
+                "name": "5 star",
+                "count": 70000000
+            }
+        ]
+    },
+    {
+        "image": "https://i.postimg.cc/V6J1HGnS/Instagram-logo-2022-svg.png",
+        "title": "Instagram",
+        "companyName": "Meta Platforms, Inc.",
+        "id": 2,
+        "description": "Instagram is a visually immersive social media platform that empowers users to express themselves creatively through photos, videos, and short-form content. Owned by Meta Platforms, Inc., Instagram has become a cultural phenomenon, especially among younger generations. Users can share moments through Stories, engage audiences with Reels, and host live sessions to interact in real time. The Explore tab enables discovery of trending content, influencers, and niche interests, while the algorithm tailors the feed to individual preferences. Instagram also supports direct messaging, shopping features, and creator monetization tools, making it a powerful space for both personal expression and brand promotion. With its sleek design and emphasis on aesthetics, Instagram fosters a vibrant global community where creativity, lifestyle, and commerce intersect.",
+        "size": "72MB",
+        "reviews": "95M",
+        "ratingAvg": 4.5,
+        "downloads": "3000M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 5000000
+            },
+            {
+                "name": "2 star",
+                "count": 4000000
+            },
+            {
+                "name": "3 star",
+                "count": 8000000
+            },
+            {
+                "name": "4 star",
+                "count": 20000000
+            },
+            {
+                "name": "5 star",
+                "count": 58000000
+            }
+        ]
+    },
+    {
+        "image": "https://i.postimg.cc/nrqy66LW/You-Tube-full-color-icon-2017-svg.png",
+        "title": "YouTube",
+        "companyName": "Google LLC",
+        "id": 3,
+        "description": "YouTube, owned by Google LLC, is the world’s largest video-sharing platform and a cornerstone of digital media consumption. It allows users to upload, watch, and interact with videos across a vast array of genres including entertainment, education, music, gaming, news, and lifestyle. Creators can monetize content through ads, memberships, and Super Chats, building careers and communities around their channels. YouTube’s recommendation engine personalizes content discovery, while features like Shorts, Live Streaming, and Premieres offer diverse formats for engagement. The platform also functions as a powerful search engine for video content, making it a go-to resource for tutorials, reviews, and documentaries. With integration across smart TVs, mobile devices, and browsers, YouTube is a ubiquitous part of modern life, shaping culture and conversation globally.",
+        "size": "95MB",
+        "reviews": "180M",
+        "ratingAvg": 4.6,
+        "downloads": "10000M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 7000000
+            },
+            {
+                "name": "2 star",
+                "count": 5000000
+            },
+            {
+                "name": "3 star",
+                "count": 10000000
+            },
+            {
+                "name": "4 star",
+                "count": 30000000
+            },
+            {
+                "name": "5 star",
+                "count": 128000000
+            }
+        ]
+    },
+    {
+        "image": "https://i.postimg.cc/7PNXWHP2/x-new-social-network-black-app-icon-twitter-rebranded-as-x-twitter-s-logo-was-changed-277909-568.avif",
+        "title": "X (formerly Twitter)",
+        "companyName": "X Corp.",
+        "id": 4,
+        "description": "X, formerly known as Twitter, is a real-time microblogging and social media platform operated by X Corp. It enables users to share short posts called 'tweets' that can include text, images, videos, and links. X is a powerful tool for public discourse, news dissemination, and social commentary, often serving as the first source of breaking news and trending topics. Users can follow others, engage in conversations through replies and retweets, and participate in global movements using hashtags. The platform supports Spaces for live audio discussions, Communities for niche interests, and subscription models for premium content. X has become a vital space for journalists, politicians, celebrities, and everyday users to voice opinions, spark debates, and influence public narratives. Its minimalist interface and immediacy make it a unique digital town square for the modern age.",
+        "size": "68MB",
+        "reviews": "65M",
+        "ratingAvg": 4.0,
+        "downloads": "1000M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 6000000
+            },
+            {
+                "name": "2 star",
+                "count": 4000000
+            },
+            {
+                "name": "3 star",
+                "count": 7000000
+            },
+            {
+                "name": "4 star",
+                "count": 15000000
+            },
+            {
+                "name": "5 star",
+                "count": 33000000
+            }
+        ]
+    },
+    {
+        "image": "https://i.postimg.cc/1zxpz259/whatsapp-icon-isolated-3d-render-illustration-47987-9785.avif",
+        "title": "WhatsApp",
+        "companyName": "Meta Platforms, Inc.",
+        "id": 5,
+        "description": "WhatsApp is a secure and versatile messaging application developed by Meta Platforms, Inc. It facilitates instant communication through text, voice, and video messages, as well as group chats and media sharing. With end-to-end encryption, WhatsApp ensures user privacy and data protection, making it a trusted platform for personal and professional conversations. The app supports voice and video calls, document sharing, location tracking, and status updates. WhatsApp Business offers tools for customer engagement, automated replies, and catalog management. Its lightweight design and cross-platform compatibility make it accessible across smartphones and desktops. WhatsApp has become a lifeline for billions, especially in regions where mobile communication is essential for daily life, bridging distances and fostering global connectivity.",
+        "size": "68MB",
+        "reviews": "110M",
+        "ratingAvg": 4.7,
+        "downloads": "5000M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 4000000
+            },
+            {
+                "name": "2 star",
+                "count": 3000000
+            },
+            {
+                "name": "3 star",
+                "count": 6000000
+            },
+            {
+                "name": "4 star",
+                "count": 20000000
+            },
+            {
+                "name": "5 star",
+                "count": 77000000
+            }
+        ]
+    },
+    {
+        "image": "https://i.postimg.cc/GmPpk5Jf/images-1.png",
+        "title": "Google Maps",
+        "companyName": "Google LLC",
+        "id": 6,
+        "description": "Google Maps, developed by Google LLC, is a comprehensive navigation and mapping service that has transformed how people explore the world. It offers real-time GPS navigation, traffic conditions, route planning, and location discovery for drivers, pedestrians, cyclists, and public transit users. The platform integrates satellite imagery, terrain maps, and street-level views through its Street View feature, allowing users to virtually explore destinations before visiting.Beyond navigation, Google Maps provides rich local business information including hours of operation, contact details, user reviews, photos, and popular times. It supports features like offline maps, indoor maps for malls and airports, and real-time updates on public transportation. Users can save favorite places, create custom maps, and share locations with friends and family.Google Maps also powers third-party apps and services through its robust API, enabling developers to embed location-based functionality into their platforms. Its integration with Google Search, Google Assistant, and Android Auto makes it a seamless part of the broader Google ecosystem. With continuous updates and machine learning enhancements, Google Maps remains an essential tool for travel, commuting, and local discovery.",
+        "size": "120MB",
+        "reviews": "90M",
+        "ratingAvg": 4.4,
+        "downloads": "1000M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 5000000
+            },
+            {
+                "name": "2 star",
+                "count": 4000000
+            },
+            {
+                "name": "3 star",
+                "count": 9000000
+            },
+            {
+                "name": "4 star",
+                "count": 25000000
+            },
+            {
+                "name": "5 star",
+                "count": 47000000
+            }
+        ]
+    },
+    {
+        "image": "https://i.postimg.cc/SNC9vVf6/vector-tiktok-social-media-logo-1093524-451.avif",
+        "title": "TikTok",
+        "companyName": "ByteDance Ltd.",
+        "id": 7,
+        "description": "TikTok, created by ByteDance Ltd., is a revolutionary short-form video platform that has redefined digital entertainment and social media engagement. It allows users to create, edit, and share videos ranging from 15 seconds to several minutes, often enhanced with music, filters, effects, and text overlays. TikTok’s intuitive interface and powerful editing tools make content creation accessible to everyone, from casual users to professional influencers.The platform’s algorithm is known for its uncanny ability to surface personalized content through the 'For You' page, which adapts to user preferences based on viewing behavior. TikTok supports a wide range of genres including comedy, dance, education, fashion, gaming, and activism, fostering a diverse and inclusive community. Hashtag challenges, duets, and trends encourage user participation and virality.TikTok also offers live streaming, monetization options for creators, and brand partnerships through its Creator Marketplace. It has become a launchpad for music hits, viral memes, and cultural movements. With its global reach and emphasis on creativity, TikTok continues to influence pop culture, marketing strategies, and digital storytelling.",
+        "size": "78MB",
+        "reviews": "85M",
+        "ratingAvg": 4.3,
+        "downloads": "3000M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 6000000
+            },
+            {
+                "name": "2 star",
+                "count": 5000000
+            },
+            {
+                "name": "3 star",
+                "count": 8000000
+            },
+            {
+                "name": "4 star",
+                "count": 20000000
+            },
+            {
+                "name": "5 star",
+                "count": 46000000
+            }
+        ]
+    },
+    {
+        "image": "https://i.postimg.cc/pLVdJBGn/aa7083sqr.webp",
+        "title": "Spotify",
+        "companyName": "Spotify AB",
+        "id": 8,
+        "description": "Spotify, developed by Spotify AB, is a leading digital music streaming service that provides access to millions of songs, albums, podcasts, and curated playlists across genres and languages. It offers both free and premium tiers, with the latter including ad-free listening, offline downloads, and enhanced audio quality. Spotify’s user-friendly interface and powerful recommendation engine make discovering new music effortless and enjoyable.Users can follow artists, create and share playlists, and explore personalized features like Discover Weekly, Release Radar, and Daily Mix. Spotify also supports podcast streaming, including exclusive shows and original content, making it a hub for audio entertainment beyond music. The platform is available on smartphones, tablets, desktops, smart speakers, and even gaming consoles, ensuring seamless access across devices. Spotify for Artists provides analytics and promotional tools for musicians, while Spotify Wrapped offers users a yearly summary of their listening habits. With integrations into social media, fitness apps, and smart home systems, Spotify has become an integral part of daily life for millions. Its commitment to personalization, innovation, and accessibility continues to shape the future of audio streaming.",
+        "size": "100MB",
+        "reviews": "85M",
+        "ratingAvg": 4.5,
+        "downloads": "1000M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 4000000
+            },
+            {
+                "name": "2 star",
+                "count": 3000000
+            },
+            {
+                "name": "3 star",
+                "count": 6000000
+            },
+            {
+                "name": "4 star",
+                "count": 20000000
+            },
+            {
+                "name": "5 star",
+                "count": 52000000
+            }
+        ]
+    },
+    {
+        "image":  "https://i.postimg.cc/ZKWmbDM7/2496094.png",
+        "title": "Evernote",
+        "companyName": "Evernote Corporation",
+        "id": 9,
+        "description": "Evernote is a powerful note-taking and organization app that helps users capture ideas, tasks, and to-do lists across devices. It supports multimedia notes, document scanning, and syncing across platforms. With features like notebooks, tags, and search, Evernote is ideal for students, professionals, and creatives.",
+        "size": "85MB",
+        "reviews": "25M",
+        "ratingAvg": 4.4,
+        "downloads": "500M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 1000000
+            },
+            {
+                "name": "2 star",
+                "count": 800000
+            },
+            {
+                "name": "3 star",
+                "count": 2000000
+            },
+            {
+                "name": "4 star",
+                "count": 7000000
+            },
+            {
+                "name": "5 star",
+                "count": 14400000
+            }
+        ]
+    },
+    {
+        "image": "https://i.postimg.cc/tgV6Pj46/245295805989-06e77af1bfb8e3c81d4d-512.png",
+        "title": "Zoom",
+        "companyName": "Zoom Video Communications",
+        "id": 10,
+        "description": "Zoom is a leading video conferencing app used for virtual meetings, webinars, and online collaboration. It offers HD video, screen sharing, breakout rooms, and chat features. Popular among businesses, educators, and remote teams, Zoom ensures seamless communication across devices.",
+        "size": "120MB",
+        "reviews": "40M",
+        "ratingAvg": 4.3,
+        "downloads": "1000M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 2000000
+            },
+            {
+                "name": "2 star",
+                "count": 1500000
+            },
+            {
+                "name": "3 star",
+                "count": 3000000
+            },
+            {
+                "name": "4 star",
+                "count": 10000000
+            },
+            {
+                "name": "5 star",
+                "count": 23500000
+            }
+        ]
+    },
+    {
+        "image": "https://i.postimg.cc/6pF2BmfJ/41cw-NN2n2w-L.png",
+        "title": "Duolingo",
+        "companyName": "Duolingo Inc.",
+        "id": 11,
+        "description": "Duolingo is a gamified language learning app offering bite-sized lessons in over 30 languages. It uses interactive exercises, streaks, and rewards to keep learners engaged. Duolingo is suitable for beginners and intermediate learners, and supports reading, writing, listening, and speaking practice.",
+        "size": "75MB",
+        "reviews": "60M",
+        "ratingAvg": 4.7,
+        "downloads": "800M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 1000000
+            },
+            {
+                "name": "2 star",
+                "count": 900000
+            },
+            {
+                "name": "3 star",
+                "count": 2000000
+            },
+            {
+                "name": "4 star",
+                "count": 12000000
+            },
+            {
+                "name": "5 star",
+                "count": 44000000
+            }
+        ]
+    },
+    {
+        "image": "https://i.postimg.cc/qMSMKChR/6911160.png",
+        "title": "Slack",
+        "companyName": "Slack Technologies",
+        "id": 12,
+        "description": "Slack is a messaging platform designed for teams and workplaces. It organizes communication into channels, supports file sharing, integrations with productivity tools, and real-time collaboration. Slack enhances workflow efficiency and is widely used in tech, media, and remote work environments.",
+        "size": "90MB",
+        "reviews": "30M",
+        "ratingAvg": 4.2,
+        "downloads": "400M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 1500000
+            },
+            {
+                "name": "2 star",
+                "count": 1200000
+            },
+            {
+                "name": "3 star",
+                "count": 2500000
+            },
+            {
+                "name": "4 star",
+                "count": 8000000
+            },
+            {
+                "name": "5 star",
+                "count": 16800000
+            }
+        ]
+    },
+    {
+        "image": "https://i.postimg.cc/j53rrGyc/channels4-profile.jpg",
+        "title": "Netflix",
+        "companyName": "Netflix Inc.",
+        "id": 13,
+        "description": "Netflix is a subscription-based streaming service offering a vast library of movies, TV shows, documentaries, and original content. It supports offline viewing, personalized recommendations, and multiple profiles. Netflix is accessible on smartphones, smart TVs, tablets, and desktops.",
+        "size": "130MB",
+        "reviews": "100M",
+        "ratingAvg": 4.6,
+        "downloads": "1500M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 4000000
+            },
+            {
+                "name": "2 star",
+                "count": 3000000
+            },
+            {
+                "name": "3 star",
+                "count": 5000000
+            },
+            {
+                "name": "4 star",
+                "count": 25000000
+            },
+            {
+                "name": "5 star",
+                "count": 63000000
+            }
+        ]
+    },
+    {
+        "image": "https://i.postimg.cc/4N6sYFgj/images.jpg",
+        "title": "Shazam",
+        "companyName": "Apple Inc.",
+        "id": 14,
+        "description": "Shazam is a music recognition app that identifies songs playing around you in seconds. It provides artist info, lyrics, and links to streaming platforms. With offline recognition and auto-Shazam mode, it’s a must-have for music lovers who want to discover tracks instantly.",
+        "size": "60MB",
+        "reviews": "20M",
+        "ratingAvg": 4.8,
+        "downloads": "500M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 500000
+            },
+            {
+                "name": "2 star",
+                "count": 400000
+            },
+            {
+                "name": "3 star",
+                "count": 1000000
+            },
+            {
+                "name": "4 star",
+                "count": 5000000
+            },
+            {
+                "name": "5 star",
+                "count": 13000000
+            }
+        ]
+    },
+    {
+        "image": "https://i.postimg.cc/8Cs2mZ2h/2504834.png",
+        "title": "Trello",
+        "companyName": "Atlassian",
+        "id": 15,
+        "description": "Trello is a visual project management tool that uses boards, lists, and cards to organize tasks and workflows. It’s ideal for teams and individuals managing projects, with features like due dates, labels, attachments, and integrations with other productivity apps.",
+        "size": "70MB",
+        "reviews": "15M",
+        "ratingAvg": 4.6,
+        "downloads": "300M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 400000
+            },
+            {
+                "name": "2 star",
+                "count": 300000
+            },
+            {
+                "name": "3 star",
+                "count": 800000
+            },
+            {
+                "name": "4 star",
+                "count": 4000000
+            },
+            {
+                "name": "5 star",
+                "count": 9500000
+            }
+        ]
+    },
+    {
+        "image": "https://i.postimg.cc/D056DTsk/images-2.png",
+        "title": "Amazon Kindle",
+        "companyName": "Amazon Inc.",
+        "id": 16,
+        "description": "Amazon Kindle is an eBook reader app that gives users access to millions of books, magazines, and audiobooks. It supports customizable reading settings, syncing across devices, and features like X-Ray, Word Wise, and built-in dictionary for enhanced reading experience.",
+        "size": "100MB",
+        "reviews": "35M",
+        "ratingAvg": 4.7,
+        "downloads": "700M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 1000000
+            },
+            {
+                "name": "2 star",
+                "count": 800000
+            },
+            {
+                "name": "3 star",
+                "count": 2000000
+            },
+            {
+                "name": "4 star",
+                "count": 9000000
+            },
+            {
+                "name": "5 star",
+                "count": 22000000
+            }
+        ]
+    },
+    {
+        "image": "https://i.postimg.cc/HnP5XsXL/coursera-rounded-logo-with-transparent-background-for-online-courses-free-png.webp",
+        "title": "Coursera",
+        "companyName": "Coursera Inc.",
+        "id": 17,
+        "description": "Coursera is an online learning platform offering courses, certificates, and degrees from top universities and companies. It covers subjects from data science to humanities, with video lectures, quizzes, and peer-reviewed assignments. Ideal for learners seeking flexible, high-quality education.",
+        "size": "95MB",
+        "reviews": "18M",
+        "ratingAvg": 4.5,
+        "downloads": "250M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 600000
+            },
+            {
+                "name": "2 star",
+                "count": 500000
+            },
+            {
+                "name": "3 star",
+                "count": 1000000
+            },
+            {
+                "name": "4 star",
+                "count": 5000000
+            },
+            {
+                "name": "5 star",
+                "count": 11000000
+            }
+        ]
+    },
+    {
+        "image": "https://i.postimg.cc/j5SLcYsx/pngimg-com-discord-PNG8.png",
+        "title": "Discord",
+        "companyName": "Discord Inc.",
+        "id": 18,
+        "description": "Discord is a communication platform designed for communities, gamers, and creators. It offers voice, video, and text chat, organized into servers and channels. With features like screen sharing, bots, and integrations, Discord fosters collaboration and social interaction across interests.",
+        "size": "110MB",
+        "reviews": "50M",
+        "ratingAvg": 4.6,
+        "downloads": "1000M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 3000000
+            },
+            {
+                "name": "2 star",
+                "count": 2000000
+            },
+            {
+                "name": "3 star",
+                "count": 4000000
+            },
+            {
+                "name": "4 star",
+                "count": 12000000
+            },
+            {
+                "name": "5 star",
+                "count": 29000000
+            }
+        ]
+    },
+    {
+        "image": "https://i.postimg.cc/X7fBn8Dn/medium-logo-icon-189223.png",
+        "title": "Medium",
+        "companyName": "A Medium Corporation",
+        "id": 19,
+        "description": "Medium is a publishing platform where writers, thinkers, and storytellers share their ideas and insights. It offers a clean reading experience, personalized recommendations, and a subscription model for premium content. Ideal for readers seeking thoughtful articles across diverse topics.",
+        "size": "60MB",
+        "reviews": "10M",
+        "ratingAvg": 4.5,
+        "downloads": "200M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 300000
+            },
+            {
+                "name": "2 star",
+                "count": 200000
+            },
+            {
+                "name": "3 star",
+                "count": 500000
+            },
+            {
+                "name": "4 star",
+                "count": 2500000
+            },
+            {
+                "name": "5 star",
+                "count": 7000000
+            }
+        ]
+    },
+    {
+        "image": "https://i.postimg.cc/TPF3VLHQ/adobe-reader-download-adobe-reader.avif",
+        "title": "Adobe Acrobat Reader",
+        "companyName": "Adobe Inc.",
+        "id": 20,
+        "description": "Adobe Acrobat Reader is the leading app for viewing, annotating, and signing PDF documents. It supports cloud storage integration, form filling, and document sharing. With its robust tools and cross-platform support, it's essential for professionals and students alike.",
+        "size": "140MB",
+        "reviews": "50M",
+        "ratingAvg": 4.6,
+        "downloads": "1200M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 2000000
+            },
+            {
+                "name": "2 star",
+                "count": 1500000
+            },
+            {
+                "name": "3 star",
+                "count": 3000000
+            },
+            {
+                "name": "4 star",
+                "count": 12000000
+            },
+            {
+                "name": "5 star",
+                "count": 31500000
+            }
+        ]
+    },
+    {
+        "image": "https://i.postimg.cc/kXT9NR2w/How-to-Use-One-Note-for-Project-Management-scaled.webp",
+        "title": "Microsoft OneNote",
+        "companyName": "Microsoft Corporation",
+        "id": 21,
+        "description": "Microsoft OneNote is a digital notebook for capturing and organizing notes, ideas, and tasks. It supports handwriting, audio notes, and syncing across devices. Ideal for students, professionals, and teams collaborating on projects and research.",
+        "size": "100MB",
+        "reviews": "30M",
+        "ratingAvg": 4.4,
+        "downloads": "800M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 1000000
+            },
+            {
+                "name": "2 star",
+                "count": 800000
+            },
+            {
+                "name": "3 star",
+                "count": 2000000
+            },
+            {
+                "name": "4 star",
+                "count": 7000000
+            },
+            {
+                "name": "5 star",
+                "count": 19000000
+            }
+        ]
+    },
+    {
+        "image": "https://i.postimg.cc/T2QBBMTx/unnamed-1.png",
+        "title": "Uber",
+        "companyName": "Uber Technologies Inc.",
+        "id": 22,
+        "description": "Uber is a ride-hailing app that connects passengers with drivers for convenient transportation. It offers real-time tracking, fare estimates, and multiple ride options. Uber also supports food delivery through Uber Eats and has expanded into logistics and freight services.",
+        "size": "120MB",
+        "reviews": "70M",
+        "ratingAvg": 4.3,
+        "downloads": "1500M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 4000000
+            },
+            {
+                "name": "2 star",
+                "count": 3000000
+            },
+            {
+                "name": "3 star",
+                "count": 5000000
+            },
+            {
+                "name": "4 star",
+                "count": 18000000
+            },
+            {
+                "name": "5 star",
+                "count": 50000000
+            }
+        ]
+    },
+    {
+        "image": "https://i.postimg.cc/7Yftc5Bd/images-1.jpg",
+        "title": "Skype",
+        "companyName": "Microsoft Corporation",
+        "id": 23,
+        "description": "Skype is a communication app offering voice calls, video chats, and instant messaging. It supports group calls, screen sharing, and international calling. Skype is widely used for personal and professional communication across the globe.",
+        "size": "95MB",
+        "reviews": "45M",
+        "ratingAvg": 4.2,
+        "downloads": "1000M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 3000000
+            },
+            {
+                "name": "2 star",
+                "count": 2500000
+            },
+            {
+                "name": "3 star",
+                "count": 4000000
+            },
+            {
+                "name": "4 star",
+                "count": 12000000
+            },
+            {
+                "name": "5 star",
+                "count": 31500000
+            }
+        ]
+    },
+    {
+        "image": "https://i.postimg.cc/FRJsqmBj/notion-app.png",
+        "title": "Notion",
+        "companyName": "Notion Labs Inc.",
+        "id": 24,
+        "description": "Notion is an all-in-one workspace app that combines note-taking, task management, databases, and collaboration tools. It’s highly customizable, allowing users to create wikis, journals, project boards, and more. Ideal for individuals and teams looking to streamline productivity and knowledge management.",
+        "size": "105MB",
+        "reviews": "22M",
+        "ratingAvg": 4.7,
+        "downloads": "600M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 800000
+            },
+            {
+                "name": "2 star",
+                "count": 600000
+            },
+            {
+                "name": "3 star",
+                "count": 1500000
+            },
+            {
+                "name": "4 star",
+                "count": 6000000
+            },
+            {
+                "name": "5 star",
+                "count": 14500000
+            }
+        ]
+    }
+]
