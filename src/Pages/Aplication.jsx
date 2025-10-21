@@ -13,7 +13,7 @@ const Aplication = () => {
     
 
     return (
-        <div>
+        <div className='bg-[#f5f5f5]'>
             <div className='p-20 text-center'>
                 <h1 className='text-[48px] font-semibold mb-5'>Our All Applications</h1>
                 <p className='text-[16px] text-[#abb4bb]'>Explore All Apps on the Market developed by us. We code for Millions</p>
