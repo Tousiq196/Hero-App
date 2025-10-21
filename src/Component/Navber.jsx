@@ -6,10 +6,12 @@ import gitimage from '../assets/fi_2111432.png';
 const Navber = () => {
     return (
       <div className='flex space-x-[600px] ml-[100px] items-center my-6 '>
-         <div className='flex justify-center items-center'>
-            <img src={homeimage} alt="Home" />
-         <h1 className='text-[16px] font-semibold text-[#8e53ee]'>HERO.IO</h1>
-         </div>
+        <Link to="/">
+            <div className='flex items-center gap-2'>
+                <img className='w-[40px] h-[40px]' src={homeimage} alt="Logo" />
+                <h1 className='text-[24px] font-bold'>Hero Apps</h1>
+            </div>
+        </Link>
          <div className='flex gap-8 font-semibold text-[20px]'>
              <Link to="/">Home</Link>
              <Link to="/Apps">Apps</Link>

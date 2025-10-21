@@ -34,7 +34,7 @@ const Home = () => {
       </div>
       
        <Link to="/Apps">
-        <div className='flex justify-center items-center mt-10 mb-4'>
+        <div className='flex justify-center items-center  p-10'>
             <button className='btn bg-[#8148eb] text-white text-[20px] '>See All Apps</button>
         </div>
        </Link>
