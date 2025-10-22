@@ -1,21 +1,25 @@
 import React, { useEffect, useState } from 'react';
-import { useParams } from 'react-router';
+import { useNavigate, useParams } from 'react-router';
 import useData from '../Hook/useData';
 import downloadimage from '../assets/icon-downloads.png';
 import ratingimage from '../assets/icon-ratings.png';
 import reviwimage from '../assets/icon-review.png';
 import Barchart from '../Component/Barchart';
+import { toast } from 'react-toastify';
 
 
 
 const Appdetails = () => {
     const { id } = useParams();
     const { data } = useData();
-    console.log(data);
-    const findapp = data.find(p => p.id === parseInt(id));
-    console.log(findapp);
+    const navigate = useNavigate();
+    const findapp = data?.find(p => p.id === parseInt(id));
     const { title, downloads, ratingAvg, reviews, size, image, companyName } = findapp || {};
-
+    useEffect(() => {
+    if (data.length > 0 && !findapp) {
+      navigate('/AppNotFound');
+    }
+  }, [data, findapp, navigate]);
     const [clicked, setClicked] = useState('')
 
     useEffect(() => {
@@ -26,6 +30,8 @@ const Appdetails = () => {
 
 
     const handleAddToInstall = () => {
+
+        toast.success(`${title} installed successfully`)
 
         const exstinglist = JSON.parse(localStorage.getItem('install'))
         let updatelist = []

@@ -1,5 +1,7 @@
 import React from 'react';
 import apperror from '../assets/App-Error.png'
+import { Link } from 'react-router';
+
 
 const AppNotFound = () => {
     return (
@@ -7,7 +9,7 @@ const AppNotFound = () => {
                    <img src={apperror} alt="Error" />
                    <h1 className='text-[40px] font-bold'>Oops!!APP NOT FOUND</h1>
                    <p>The App you are requesting is not found on our system. please try another apps</p>
-                   <button className='btn bg-[#9f62f2] text-white text-xl '>Go Back</button>
+                   <Link to="/" className='btn bg-[#9f62f2] text-white text-xl '>Go Back</Link>
                </div>
     );
 };

@@ -24,7 +24,7 @@ const Navber = () => {
                 </NavLink>
             </div>
             <div>
-                <button className='btn bg-[#8e53ee] text-white'>   <img src={gitimage} alt="GitHub" /> Contribute</button>
+                <a href='https://github.com/Tousiq196' className='btn bg-[#8e53ee] text-white'>   <img src={gitimage} alt="GitHub" /> Contribute</a>
 
             </div>
         </div>

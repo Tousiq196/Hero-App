@@ -2,13 +2,12 @@ import React from 'react';
 import downloadimage from '../assets/icon-downloads.png';
 import ratingimage from '../assets/icon-ratings.png';
 import { Link } from 'react-router';
-
-
 const AplicationCard = ({ap}) => {
     
     const {image,reviews,ratingAvg,title,id} = ap;
     return (
       <Link to={`/Appdetails/${id}`}>
+        
         <div className='w-[348px] h-[435px] p-2 space-y-4 bg-white rounded-md shadow-md hover:scale-105 duration-300'>
                     <div className='w-[316px] h-[316px]  rounded-sm ml-[8px] p-4 bg-[#f5f5f5] flex justify-center items-center   '>
                           <img className='rounded-xl w-[250px] h-[250px] ' src={image} alt="App" />

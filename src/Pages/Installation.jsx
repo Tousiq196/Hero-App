@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import downloadimage from '../assets/icon-downloads.png';
 import starimage from '../assets/icon-ratings.png';
+import { toast } from 'react-toastify';
 
 const Installation = () => {
     const [installation, setInstallation] = useState([]);
@@ -20,9 +21,10 @@ const Installation = () => {
         return installation;
     })();
 
-    const handleremove = (id)=>{
+    const handleremove = (p)=>{
+        toast.error(`${p.title} uninstall successful`)
            const exstinglist = JSON.parse(localStorage.getItem('install'))
-            let updatelist = exstinglist.filter(p => p.id !== id)
+            let updatelist = exstinglist.filter(p => p.id !== p.id)
             setInstallation(updatelist)
             
         localStorage.setItem('install', JSON.stringify(updatelist))
@@ -78,7 +80,7 @@ const Installation = () => {
                             </div>
                         </div>
 
-                        <button onClick={()=>handleremove(p.id)} className='btn text-white bg-[#00d390]'>Uninstall</button>
+                        <button onClick={()=>handleremove(p)} className='btn text-white bg-[#00d390]'>Uninstall</button>
                     </div>
                 </div>
             ))}
