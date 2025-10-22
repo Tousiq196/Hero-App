@@ -9,12 +9,14 @@ import { toast } from 'react-toastify';
 
 
 
+
 const Appdetails = () => {
     const { id } = useParams();
     const { data } = useData();
+    console.log(data)
     const navigate = useNavigate();
     const findapp = data?.find(p => p.id === parseInt(id));
-    const { title, downloads, ratingAvg, reviews, size, image, companyName } = findapp || {};
+    const { title, downloads, ratingAvg, reviews, size, image, companyName,description } = findapp || {};
     useEffect(() => {
     if (data.length > 0 && !findapp) {
       navigate('/AppNotFound');
@@ -96,6 +98,14 @@ const Appdetails = () => {
                     <Barchart></Barchart>
                 </div>
             </div>
+             <p className='border-1 w-[1800px] mb-4 ml-20'></p>
+            <div>
+              <h1 className='text-[24px] font-semibold ml-20'>Description</h1>
+
+              <p className='p-10 ml-10 text-[20px]'>{description}</p>
+            
+            </div>
+           
 
         </div>
     );

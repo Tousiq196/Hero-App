@@ -4,6 +4,7 @@ import useData from '../Hook/useData';
 import Loading from '../Component/Loading';
 import AplicationCard from '../Component/AplicationCard';
 import { Link } from 'react-router';
+import Midile from '../Component/Midile';
 
 const Home = () => {
   const { data, loading, error } = useData();
@@ -12,6 +13,8 @@ const Home = () => {
   return (
     <div className='bg-[#f5f5f5]'>
       <Firstpart />
+
+      <Midile></Midile>
 
       <div>
         <div className='mt-[80px] space-y-10'>

@@ -14,9 +14,9 @@ const Installation = () => {
     const parseSize = (size) => parseFloat(size);
     const sortedapp = (() => {
         if (sortapp === 'High to Low') {
-            return [...installation].sort((a, b) => parseSize(b.size) - parseSize(a.size));
+            return [...installation].sort((a, b) => parseSize(b.downloads) - parseSize(a.downloads));
         } else if (sortapp === 'Low to High') {
-            return [...installation].sort((a, b) => parseSize(a.size) - parseSize(b.size));
+            return [...installation].sort((a, b) => parseSize(a.downloads) - parseSize(b.downloads));
         }
         return installation;
     })();
@@ -24,7 +24,7 @@ const Installation = () => {
     const handleremove = (p)=>{
         toast.error(`${p.title} uninstall successful`)
            const exstinglist = JSON.parse(localStorage.getItem('install'))
-            let updatelist = exstinglist.filter(p => p.id !== p.id)
+            let updatelist = exstinglist.filter(item => item.id !== p.id)
             setInstallation(updatelist)
             
         localStorage.setItem('install', JSON.stringify(updatelist))
